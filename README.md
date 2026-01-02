@@ -10,7 +10,7 @@ My very first simple calculator program written in C.
 
 ## How to Run
 1. Compile the program:
-   gcc calculator.c -o calculator
+   gcc maincalc.c -o calculator
 2. Run it:
    ./calculator
 
@@ -19,3 +19,4 @@ My very first simple calculator program written in C.
 - Passing values to functions
 - Handling user input with scanf
 - Basic error checking
+
